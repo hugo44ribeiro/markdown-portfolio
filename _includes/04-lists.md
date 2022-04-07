@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# List of My Favorite Things
+- Roger Federer
+- SL Benfica
+- Super Bock
